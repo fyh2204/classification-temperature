@@ -1,0 +1,10 @@
+10,Froid
+12,Froid
+18,Modéré
+20,Modéré
+22,Modéré
+27,Chaud
+30,Chaud
+35,Chaud
+5,Froid
+16,Modéré
